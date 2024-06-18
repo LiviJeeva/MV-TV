@@ -1,0 +1,48 @@
+{
+  "name": "abhitv",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "hls.js": "^1.5.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-player": "^2.14.1",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "video-react": "^0.16.0",
+    "video.js": "^7.14.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "MixVistaTv: ![Screenshot (9)](https://github.com/abhishek9101/MixVistaTv-App/assets/77790762/4d3c396f-d4ab-4311-931d-d71c31b949e0) ![Screenshot (7)](https://github.com/abhishek9101/MixVistaTv-App/assets/77790762/54ffcf19-0d96-420a-a5b6-f29ec4754e13) ![Screenshot (8)](https://github.com/abhishek9101/MixVistaTv-App/assets/77790762/82043da4-66c6-42b0-8249-b90fb3c89ff2)",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
